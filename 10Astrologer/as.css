@@ -1,0 +1,24 @@
+.container{
+    height: 400px;
+    width: 400px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+#astroform{
+    /* display: flex; */
+    justify-content: center;
+    /* align-items: center; */
+    margin: 10px 10px 10px 10px;
+    margin-left: 50px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+.result{
+    margin: 10px 10px 10px 10px;
+    background-color:rgb(219, 138, 33);
+    border-width: 5px black;
+    
+    
+}
